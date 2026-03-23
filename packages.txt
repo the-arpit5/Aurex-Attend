@@ -1,3 +1,2 @@
-cmakecmake
-libgl1-mesa-glx
-build-essential
+cmake
+libgl1
